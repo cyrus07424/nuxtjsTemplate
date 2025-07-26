@@ -12,3 +12,10 @@
     </footer>
   </div>
 </template>
+
+<script setup>
+// Setup page meta
+useHead({
+  title: 'Nuxt.js Template'
+})
+</script>
